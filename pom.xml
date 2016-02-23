@@ -78,7 +78,7 @@
         <encoding>UTF-8</encoding>
         <!-- Maven Plugins -->
         <maven-eclipse-plugin.version>2.9</maven-eclipse-plugin.version>
-        <scala-maven-plugin.version>3.1.6</scala-maven-plugin.version>
+        <scala-maven-plugin.version>3.2.1</scala-maven-plugin.version>
         <build-helper-maven-plugin.version>1.7</build-helper-maven-plugin.version>
         <maven-surefire-plugin.version>2.7</maven-surefire-plugin.version>
         <scalatest-maven-plugin.version>1.0-RC2</scalatest-maven-plugin.version>
@@ -95,8 +95,8 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <!-- Scala -->
-        <scala.version>2.10.5</scala.version>
-        <scala.tools.version>2.10</scala.tools.version>
+        <scala.version>2.11.7</scala.version>
+        <scala.tools.version>2.11</scala.tools.version>
         <!-- Spring -->
         <spring-beans.version>4.0.5.RELEASE</spring-beans.version>
         <!-- Akka -->
@@ -106,7 +106,7 @@
         <!-- Testing -->
         <junit.version>4.11</junit.version>
         <scalatest.version>2.1.7</scalatest.version>
-        <specs2.version>2.3.10</specs2.version>
+        <specs2.version>2.3.11</specs2.version>
         <scalacheck.version>1.12.2</scalacheck.version>
         <!-- Config -->
         <config.version>1.2.1</config.version>

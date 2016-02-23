@@ -53,10 +53,12 @@ This project includes:
   peel-flinkspark-bundle under The Apache License, Version 2.0
   peel-spark-bundle under The Apache License, Version 2.0
   pegdown under Apache 2
-  quasiquotes under BSD-like
-  Scala Compiler under BSD-like
-  Scala Library under BSD-like
+  Scala Compiler under BSD 3-Clause
+  Scala Library under BSD 3-Clause
   scala-arm under BSD-Style
+  scala-continuations-library under BSD 3-clause
+  scala-parser-combinators under BSD 3-clause
+  scala-xml under BSD 3-clause
   scalacheck under BSD-style
   ScalaTest under the Apache License, ASL Version 2.0
   scalaz-concurrent under BSD-style
